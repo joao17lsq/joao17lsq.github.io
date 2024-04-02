@@ -1,0 +1,44 @@
+@font-face {
+    font-family: font1;
+    src: url(/public/assets/fonts/652736292cbf8363b43d077a_ggsans-Normal.woff2);
+}
+
+@font-face {
+    font-family: font2;
+    src: url(/public/assets/fonts/652737c30510e4ad4333a424_ggsans-Bold.woff2);
+}
+
+@font-face {
+    font-family: font3;
+    src: url(/public/assets/fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2);
+}
+
+@font-face {
+    font-family: font4;
+    src: url(/public/assets/fonts/652737c319ba7da75394c4dc_ggsans-Semibold.woff2);
+}
+
+@font-face {
+    font-family: font5;
+    src: url(/public/assets/fonts/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2);
+}
+
+@font-face {
+    font-family: font6;
+    src: url(/public/assets/fonts/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff);
+}
+
+@font-face {
+    font-family: font7;
+    src: url(/public/assets/fonts/Mona-Sans-870dff5a10221ba7d01cc47eca10d0b2f911bd4196bb941985490bd8c7363cd9.woff2);
+}
+
+@font-face {
+    font-family: font8;
+    src: url(/public/assets/fonts/WFVisualSans-RegularText-46461986901f80620e484e70aa8cbb90ede25a01351d464819a4e47a3f38ea43.woff2);
+}
+
+@font-face {
+    font-family: font9;
+    src: url(/public/assets/fonts/WFVisualSans-SemiBold-aa0e55353b6a1b897f76a0fcbf5561fa243ce1b8b9f6aebcb5a186f0536713b1.woff2);
+}

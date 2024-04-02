@@ -1,0 +1,63 @@
+body {
+    background-image: url(/public/assets/images/estaiada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.linkmeio {
+    font-family: font2;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    text-decoration: none;
+    color: #000000;
+    text-shadow: 0.1em 0.1em #333;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.linkmeio:hover {
+    text-decoration: underline #000000;
+
+
+}
+
+.teto a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
+
+.Nav1 {
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 30px;
+    font-family: font4;
+    text-shadow: 0.1em 0.1em #333;
+}
+
+.meio {}
+
+.meio h1 {
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: font9;
+    font-size: 80px;
+    text-shadow: 0.1em 0.1em #333;
+}
+
+.meio h2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: font2;
+    padding-top: 10px;
+    font-size: 20px;
+}

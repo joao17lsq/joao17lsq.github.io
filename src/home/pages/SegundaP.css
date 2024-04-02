@@ -1,0 +1,42 @@
+body {
+    background-image: url(/public/assets/images/AS00106-Ponte-Estaiada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Nav1 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 30px;
+    font-family: font4;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 0.1em 0.1em #333
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: font9;
+    font-size: 80px;
+    color: #ffffff;
+    padding-top: 120px;
+    text-shadow: 0.1em 0.1em #333
+}
+
+h2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: font2;
+    padding-top: px;
+    font-size: 30px;
+    color: #ffffff;
+}
